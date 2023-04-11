@@ -1,0 +1,20 @@
+<!-- Inicio Membresia-->
+            <section class=seccion-membresia >
+                <h2 class="titulo-membresia" id="membresia">Membresia</h2>
+                <div class="clasesMembresia">
+                    <div class="contenedor-membresia">
+                        <img src="images/membresia.jpg" alt="folletoMembresia" width="340" height="220px">
+                        <div class="membresia"><strong>Mensual</strong></div>
+                        <div class="compra"><button class="boton-compra" onclick="miFuncomp()">Comprar</button></div>
+                        <div class="BasesyCondiciones"><button class="btn-BasesyCondiciones" onclick="miFunc()">Termino y condiciones</button></div>
+                        <script type="text/javascript"></script>
+                    </div>
+                    <div class="contenedor-membresia">
+                        <img src="images/membresia.jpg" alt="folletoMembresia" width="340" height="220px">
+                        <div class="membresia"><strong>Anual</strong></div>
+                        <div class="compra"><button class="boton-compra" onclick="miFuncomp()">Comprar</button></div>
+                        <div class="BasesyCondiciones"><button class="btn-BasesyCondiciones" onclick="miFunc()">Termino y condiciones</button></div>
+                        <script type="text/javascript"></script>
+                    </div>
+                </div>    
+            </section>
